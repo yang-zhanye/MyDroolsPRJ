@@ -1,0 +1,4 @@
+MyDroolsPRJ
+===========
+
+Drools Tech Experience
